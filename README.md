@@ -3,7 +3,7 @@ A comprehensive framework for evaluating overall wellbeing by focusing on Financ
 
 # Group Name: The Good Life Metrics
 
-- Utkarsh Tiwari: Tiwariutkarsh0621@gmail.com
+- Utkarsh Tiwari: utt2@pitt.edu
 - Akhil Bodahanapati: akb198@pitt.edu
 
 **Link to Data Files:** from [WPRDC]([url](https://data.wprdc.org/dataset/?organization=allegheny-county))
