@@ -1,6 +1,13 @@
 # Best-Muncipality-Data-Analysis
 A comprehensive framework for evaluating overall wellbeing by focusing on Financial, Physical, and Asset Wellbeing, providing insights into stability, health, and long-term security to foster balanced and sustainable growth.
 
+# Group Name: The Good Life Metrics
+
+# Group Members
+
+- Utkarsh Tiwari: Tiwariutkarsh0621@gmail.com
+- Akhil Bodahanapati: akb198@pitt.edu
+
 **Link to Data Files:** from [WPRDC]([url](https://data.wprdc.org/dataset/?organization=allegheny-county))
 1. [Property Assesments]([url](https://data.wprdc.org/dataset/property-assessments/resource/f2b8d575-e256-4718-94ad-1e12239ddb92))
 2. [Community Survey for Income]([url](https://data.wprdc.org/dataset/all-in-allegheny-community-survey/resource/1aff34b2-530f-4b27-a2fa-89ee3641ee2e))
