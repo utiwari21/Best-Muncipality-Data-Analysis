@@ -3,8 +3,6 @@ A comprehensive framework for evaluating overall wellbeing by focusing on Financ
 
 # Group Name: The Good Life Metrics
 
-# Group Members
-
 - Utkarsh Tiwari: Tiwariutkarsh0621@gmail.com
 - Akhil Bodahanapati: akb198@pitt.edu
 
